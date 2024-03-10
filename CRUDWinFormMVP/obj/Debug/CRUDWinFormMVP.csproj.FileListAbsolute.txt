@@ -1,0 +1,10 @@
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\bin\Debug\CRUDWinFormMVP.exe.config
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\bin\Debug\CRUDWinFormMVP.exe
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\bin\Debug\CRUDWinFormMVP.pdb
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\obj\Debug\CRUDWinFormMVP.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\obj\Debug\CRUDWinFormMVP.Properties.Resources.resources
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\obj\Debug\CRUDWinFormMVP.csproj.GenerateResource.cache
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\obj\Debug\CRUDWinFormMVP.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\obj\Debug\CRUDWinFormMVP.exe
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\obj\Debug\CRUDWinFormMVP.pdb
+C:\Users\user\RiderProjects\CRUDWinFormMVP\CRUDWinFormMVP\obj\Debug\CRUDWinFormMVP.Form1.resources
