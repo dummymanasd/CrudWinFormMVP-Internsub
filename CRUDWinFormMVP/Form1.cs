@@ -21,13 +21,24 @@ namespace CRUDWinFormMVP
         
         private void AssociateAndRaiseViewEvents()
         {
+            // Search
             searchBtn.Click += delegate { SearchEvent?.Invoke(this, EventArgs.Empty); };
             pIDtbox.KeyDown += (s, e) =>
             {
                 if (e.KeyCode == Keys.Enter)
                     SearchEvent?.Invoke(this, EventArgs.Empty);
             };
+
+            // Insert
+            insertbtn.Click += delegate { AddNewEvent?.Invoke(this, EventArgs.Empty); };
+
+            // Edit
+            updateBtn.Click += delegate { EditEvent?.Invoke(this, EventArgs.Empty); };
+
+            // Delete
+            deleteBtn.Click += delegate { DeleteEvent?.Invoke(this, EventArgs.Empty); };
         }
+
 
 
         //Properties
